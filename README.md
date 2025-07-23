@@ -1,2 +1,23 @@
 # Inventory-Management-System
-1.Add products to the inventory 2.Update product quantities 3.Remove products from the inventory 4.View all products in the inventory
+# Simple Inventory Management System
+
+A console-based Java application using JDBC and MySQL.
+
+## Features
+- Add Products
+- Update Product Quantities
+- Delete Products
+- View All Products
+
+## Tech Stack
+- Java (Core + JDBC)
+- MySQL
+- Simple Console UI
+
+## How to Run
+1. Create MySQL database and table as per script.
+2. Update DB credentials in `DBConnect.java`.
+3. Compile and run `Main.java`.
+
+## Author
+Ankit Solanki
